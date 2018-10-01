@@ -5,7 +5,7 @@
 
    Most likely, it was created by saving a program in DrRacket,
    and it probably contains a program with non-text elements
-   (such as images or comment boxes).
+  (such as images or comment boxes).
 
             http://racket-lang.org/
 |#
