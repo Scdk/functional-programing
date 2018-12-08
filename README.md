@@ -1,5 +1,5 @@
 # Programação Funcional
-Repositório para trabalhos referentes a matéria de programação funcional
+<h4>Repositório para trabalhos referentes a matéria de programação funcional.</h4>
 
 * somar-substituir - Soma os elementos de uma lista ou substitui todas as ocorrências de um número em uma lista por outro.
 
